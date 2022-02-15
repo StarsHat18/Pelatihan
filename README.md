@@ -1,3 +1,3 @@
 # pelatihan
-berikut ini adalah contoh pull reqeust iyoo
+berikut ini adalah contoh pull request iyoo<br>
 typo reqeust jadi request
